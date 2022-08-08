@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Feira de sementes</title>
+	<link rel="stylesheet" href= "style.css">
+    </head>
+
+    <body>
+
+<h1>Feira de sementes online</h1>
+
+<h2>Rebouças - PR</h2>
+
+<img src= "sementes.jpg" height="300" width="400">
+
+<p><strong>"Aqui você pode trocar, vender e comprar sementes diversas e compartilhar seu conhecimento sobre plantas."</strong></p>
+
+<p><em>Conheça as sementes disponíveis com os moradores da cidade compartilhe os seus conhecimentos. </em></p>
+	</body>
+
+
+
+ 
